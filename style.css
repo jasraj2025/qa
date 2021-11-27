@@ -1,0 +1,44 @@
+#butun{
+   float: right; 
+}
+
+#label{
+    font-size: 30px;
+    font-family: bold;
+}
+
+#confidence{
+    font-size: 30px;
+    font-family: bold;
+}
+
+#description{
+    font-size: 40px;
+    font-family: 'Lobster', cursive;;
+    color: red;
+}
+body{
+    background-color: greenyellow;
+}
+
+#score{
+    font-family: 'Lobster', cursive;
+    float: left;
+    padding-left: 50px;
+    font-size:30px;
+}
+
+#timer{
+    font-family: 'Lobster', cursive;
+    float: right;
+    padding-right: 50px;
+    font-size:30px;
+}
+
+#outline{
+    background-color : white;
+}
+
+#heading{
+    padding-right:  800px;
+}
